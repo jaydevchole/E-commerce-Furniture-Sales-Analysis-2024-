@@ -14,7 +14,7 @@ This project explores **customer segments, product performance, and regional sal
 
 * **SQL Server Management Studio (SSMS)**
 * **Git & GitHub** (version control, project sharing)
-* *(Optional)* Excel / Power BI / Tableau for visualization
+* Power BI for visualization
 
 ---
 
